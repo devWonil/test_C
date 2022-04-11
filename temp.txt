@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 merge git A.txt 수정함
+=======
+merge a.txt 수정함
+>>>>>>> a3e77d33bb391d15d667edd499468dfd22914581
