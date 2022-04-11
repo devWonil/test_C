@@ -5,5 +5,5 @@ class Student{
 깃 어렵다ㅠㅠ
 소담
 
-원일 바꿈
+원일 바꿈cvvv
 }
