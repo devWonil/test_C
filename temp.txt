@@ -1,6 +1,0 @@
-
-merge git A.txt 수정함
-=======
-merge a.txt 수정함
-
-충돌발생!~!!!!
