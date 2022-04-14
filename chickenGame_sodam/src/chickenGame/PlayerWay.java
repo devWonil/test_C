@@ -1,5 +1,6 @@
+
 package chickenGame;
 
-public enum PlayerWay {
+public enum PlayerWay_s {
 	LEFT, RIGHT, TOP, DOWN
 }

@@ -5,7 +5,7 @@ import java.awt.image.BufferedImage;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
-public class changePanel_sodam {
+public class changePanel_s {
 	// 버튼
 	private BufferedImage backgroundImage;
 	static JButton b1 = new JButton("버튼1");

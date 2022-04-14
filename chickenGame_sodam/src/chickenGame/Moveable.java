@@ -1,12 +1,12 @@
 package chickenGame;
 
-public interface Moveable {
+public interface Moveable_s {
 	void left();
 	void right();
 	
-	void kitchenUp();//키친의 up은 걸어올라가는거.
-	void kitchenDown();//키친의 down은 걸어내려가는거고
+	void up();//걸어올라감
+	void down();//걸어내려감
 
-	void deliveryUp();//배달의 up은 점프임.	
-	void deliveryDown(); //배달의 down은 걍 떨어지는거
+	void jumpUp();//점프업	
+	void jumpDown(); //점프했을때 다운
 }
